@@ -29,7 +29,7 @@ def monopoly_with_third_tier
         ownership2: 2,
         ownership3: 3,
         ownership4: 4
-      } 
+      },
       names: {
         
       }
