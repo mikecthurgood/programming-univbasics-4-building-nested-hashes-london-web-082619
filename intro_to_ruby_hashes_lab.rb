@@ -31,7 +31,10 @@ def monopoly_with_third_tier
         ownership4: 4
       },
       names: {
-        
+        mortlake_station: "awesome"
+        barnes_station: "great"
+        putney_station: "not bad"
+        wandsworth_station: "so-so"
       }
       
     }
