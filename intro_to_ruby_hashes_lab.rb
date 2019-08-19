@@ -32,9 +32,9 @@ def monopoly_with_third_tier
       },
       names: {
         reading_railroad: {},
-        barnes_station: "great",
-        putney_station: "not bad",
-        wandsworth_station: "so-so"
+        pennsylvania_railroad: {},
+        putney_station: {},
+        wandsworth_station: {}
       }
       
     }
