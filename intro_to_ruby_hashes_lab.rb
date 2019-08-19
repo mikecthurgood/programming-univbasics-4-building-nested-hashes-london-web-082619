@@ -30,6 +30,10 @@ def monopoly_with_third_tier
         ownership3: 3,
         ownership4: 4
       } 
+      names: {
+        
+      }
+      
     }
   }
 end
